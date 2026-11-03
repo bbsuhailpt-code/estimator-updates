@@ -1,0 +1,11 @@
+{
+  "version": "0.3.0",
+  "notes": "Automatic updates, project rename/archive/delete, animated caliper icons for UAE and India occasions and live weather, Blueprint/Light/Dark/Auto themes, Friday note, Estimator Wrapped, first-run licence screen.",
+  "pub_date": "2026-11-03T07:53:41Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdG5aUWNSNUYxOTZwUkt6RlN5WkVxNWVING12N3Y3VWZWRnRHVzRrT3ZVUyt0cW1FemhKN2hOVytkTi96VmZob2NoNUpsYUZUYzQvSVFCZ0VMUFNsMXgrQkIrc2xzdHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjkyNDA2CWZpbGU6RXN0aW1hdG9yXzAuMy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMApTUEh6eWJPMDVIMXpFM3dvQytnRXRuTGFic2VYbGpidGlva2ZSTHpVdkpmQ1N4THZIejAzOSt4SCtDd0FPNzY3b0R4SHkrRmdxT210cUhmd0pYRERDdz09Cg==",
+      "url": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/Estimator_0.3.0_x64-setup.exe"
+    }
+  }
+}
