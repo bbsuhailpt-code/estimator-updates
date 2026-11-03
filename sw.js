@@ -1,7 +1,7 @@
 // Estimator web/phone service worker: keeps the app working offline.
-const VERSION = '0.4.0-mw0t2gmm';
+const VERSION = '0.4.0-mw0tmkqj';
 const CACHE = 'estimator-' + VERSION;
-const PRECACHE = ["./","index.html","manifest.webmanifest","favicon.png","icon-192.png","icon-512.png","apple-touch-icon.png","assets/pdf.worker.min-CIqJB0yW.mjs","assets/index-BA3qkRif.css","assets/index-BbqnmYQu.js","assets/index-BksfCpRV.js","assets/window-9QKMM9Hf.js","assets/index-BQ2L5PzK.js","assets/index-COq9IPpI.js","assets/core-BUhCcD2K.js","assets/jspdf.es.min-BXbTTsOv.js","assets/html2canvas.esm-B0tyYwQk.js","assets/purify.es-CAi2OJFm.js","assets/index.es-DZoqoGgI.js","assets/estimator_wasm_bg-Cbd3N7oa.wasm","assets/engineWorker-CvlCT28X.js"];
+const PRECACHE = ["./","index.html","manifest.webmanifest","favicon.png","icon-192.png","icon-512.png","apple-touch-icon.png","assets/pdf.worker.min-CIqJB0yW.mjs","assets/index-q9sXHFog.css","assets/index-BLDg0EzG.js","assets/index-BksfCpRV.js","assets/window-9QKMM9Hf.js","assets/index-BQ2L5PzK.js","assets/index-COq9IPpI.js","assets/core-BUhCcD2K.js","assets/jspdf.es.min-CqmxG-ED.js","assets/html2canvas.esm-B0tyYwQk.js","assets/purify.es-CAi2OJFm.js","assets/index.es-DGNVt4oz.js","assets/estimator_wasm_bg-Cbd3N7oa.wasm","assets/engineWorker-CvlCT28X.js"];
 
 self.addEventListener('install', (e) => {
   e.waitUntil(caches.open(CACHE).then((c) => c.addAll(PRECACHE)));
