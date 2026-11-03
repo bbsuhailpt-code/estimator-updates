@@ -1,11 +1,11 @@
 {
-  "version": "0.3.2",
-  "notes": "Rooms: pick a room to see only its quantities, All rooms grouped with subtotals (Excel too). New tools: rectangle, circle, cut-outs, skirting/ceiling from floor, split wall finish, height per wall side, undo/redo, room templates, room summary and marked-up drawing PDFs, scale and double-count warnings, keyboard shortcuts. Share a project as one .estproj file.",
-  "pub_date": "2026-11-03T09:07:18Z",
+  "version": "0.4.0",
+  "notes": "CAD mode: edit DWG/DXF drawings and save them back as DWG \u2013 line, polyline, rectangle, circle, hatch, text, dimension, move, copy, rotate, offset, trim, extend, fillet, explode, match, blocks with edit in place and block editor, layers, window/crossing select, layout sheet and plot to PDF. New blank drawings. Touch magnifier for measuring.",
+  "pub_date": "2026-11-03T14:50:25Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdG5aUWNSNUYxOThqU0lseEFhRmZFV2xGYWlVM015VXFFeUtGR1htV2x0YnA4TTh1TVkzOTNad2ZpNkhSS042VU0wKzJMWkpIVG44SkFOZ0lXTFpBYm42VEFQK2o3cEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjk2ODI4CWZpbGU6RXN0aW1hdG9yXzAuMy4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMgprNWluOUR0UWRTN0IzZVliUyt6bVRCQlo4L096bS80TG1BU05xNVFweHlOMmphREhFSHAraXhKQTYyblFIR1RYR2loQUYzQXhITWZoYXJ4WUFlSzFEUT09Cg==",
-      "url": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/Estimator_0.3.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdG5aUWNSNUYxOTBCNHAyWHVUcnJ2Q2xtT1NDN2JYVEVOM01jdkp2SUwxSlhMVkFacXJKL2lwODF6aDh3U2tVQk1ZQk5nd283SnR3NzNINVQrWnhxUURpZ0JTWHdvZUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzE1OTQyCWZpbGU6RXN0aW1hdG9yXzAuNC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMAo4NHBMNG9xbWl2VE93eGFaWWpXSmhhbnI4S3pnbXhLdUJnd0JWaHdPQU9FSTQrWWp3SWhYT0YwckY1YzZwMTVJelhadW9EeUpWNWhBMVFTRmdvVkZBQT09Cg==",
+      "url": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/Estimator_0.4.0_x64-setup.exe"
     }
   }
 }
