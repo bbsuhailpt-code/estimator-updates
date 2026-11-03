@@ -1,0 +1,80 @@
+{
+  "note": "Moon-based dates for Estimator icons. Edit a date here (e.g. when Eid is announced) and every installed copy picks it up within a day.",
+  "occasions": [
+    {
+      "key": "diwali",
+      "from": "2026-11-06",
+      "to": "2026-11-10"
+    },
+    {
+      "key": "ramadan",
+      "from": "2027-02-08",
+      "to": "2027-03-08"
+    },
+    {
+      "key": "fitr",
+      "from": "2027-03-09",
+      "to": "2027-03-11"
+    },
+    {
+      "key": "holi",
+      "from": "2027-03-22",
+      "to": "2027-03-22"
+    },
+    {
+      "key": "adha",
+      "from": "2027-05-15",
+      "to": "2027-05-18"
+    },
+    {
+      "key": "hijri",
+      "from": "2027-06-06",
+      "to": "2027-06-06"
+    },
+    {
+      "key": "onam",
+      "from": "2027-09-12",
+      "to": "2027-09-12"
+    },
+    {
+      "key": "diwali",
+      "from": "2027-10-27",
+      "to": "2027-10-31"
+    },
+    {
+      "key": "ramadan",
+      "from": "2028-01-28",
+      "to": "2028-02-25"
+    },
+    {
+      "key": "fitr",
+      "from": "2028-02-26",
+      "to": "2028-02-28"
+    },
+    {
+      "key": "holi",
+      "from": "2028-03-11",
+      "to": "2028-03-11"
+    },
+    {
+      "key": "adha",
+      "from": "2028-05-04",
+      "to": "2028-05-07"
+    },
+    {
+      "key": "hijri",
+      "from": "2028-05-25",
+      "to": "2028-05-25"
+    },
+    {
+      "key": "onam",
+      "from": "2028-09-01",
+      "to": "2028-09-01"
+    },
+    {
+      "key": "diwali",
+      "from": "2028-10-15",
+      "to": "2028-10-19"
+    }
+  ]
+}
