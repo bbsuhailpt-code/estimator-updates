@@ -1,11 +1,11 @@
 {
-  "version": "0.3.0",
-  "notes": "Automatic updates, project rename/archive/delete, animated caliper icons for UAE and India occasions and live weather, Blueprint/Light/Dark/Auto themes, Friday note, Estimator Wrapped, first-run licence screen.",
-  "pub_date": "2026-11-03T07:53:41Z",
+  "version": "0.3.2",
+  "notes": "Rooms: pick a room to see only its quantities, All rooms grouped with subtotals (Excel too). New tools: rectangle, circle, cut-outs, skirting/ceiling from floor, split wall finish, height per wall side, undo/redo, room templates, room summary and marked-up drawing PDFs, scale and double-count warnings, keyboard shortcuts. Share a project as one .estproj file.",
+  "pub_date": "2026-11-03T09:07:18Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdG5aUWNSNUYxOTZwUkt6RlN5WkVxNWVING12N3Y3VWZWRnRHVzRrT3ZVUyt0cW1FemhKN2hOVytkTi96VmZob2NoNUpsYUZUYzQvSVFCZ0VMUFNsMXgrQkIrc2xzdHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjkyNDA2CWZpbGU6RXN0aW1hdG9yXzAuMy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMApTUEh6eWJPMDVIMXpFM3dvQytnRXRuTGFic2VYbGpidGlva2ZSTHpVdkpmQ1N4THZIejAzOSt4SCtDd0FPNzY3b0R4SHkrRmdxT210cUhmd0pYRERDdz09Cg==",
-      "url": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/Estimator_0.3.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdG5aUWNSNUYxOThqU0lseEFhRmZFV2xGYWlVM015VXFFeUtGR1htV2x0YnA4TTh1TVkzOTNad2ZpNkhSS042VU0wKzJMWkpIVG44SkFOZ0lXTFpBYm42VEFQK2o3cEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjk2ODI4CWZpbGU6RXN0aW1hdG9yXzAuMy4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMgprNWluOUR0UWRTN0IzZVliUyt6bVRCQlo4L096bS80TG1BU05xNVFweHlOMmphREhFSHAraXhKQTYyblFIR1RYR2loQUYzQXhITWZoYXJ4WUFlSzFEUT09Cg==",
+      "url": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/Estimator_0.3.2_x64-setup.exe"
     }
   }
 }
