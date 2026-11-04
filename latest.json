@@ -1,11 +1,11 @@
 {
-  "version": "0.4.0",
-  "notes": "CAD mode: edit DWG/DXF drawings and save them back as DWG \u2013 line, polyline, rectangle, circle, hatch, text, dimension, move, copy, rotate, offset, trim, extend, fillet, explode, match, blocks with edit in place and block editor, layers, window/crossing select, layout sheet and plot to PDF. New blank drawings. Touch magnifier for measuring.",
-  "pub_date": "2026-11-03T14:50:25Z",
+  "version": "0.4.1",
+  "notes": "Fix: drawings did not show in takeoff (only the cursor) after 0.4.0.",
+  "pub_date": "2026-11-04T07:20:54Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdG5aUWNSNUYxOTBCNHAyWHVUcnJ2Q2xtT1NDN2JYVEVOM01jdkp2SUwxSlhMVkFacXJKL2lwODF6aDh3U2tVQk1ZQk5nd283SnR3NzNINVQrWnhxUURpZ0JTWHdvZUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzE1OTQyCWZpbGU6RXN0aW1hdG9yXzAuNC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMAo4NHBMNG9xbWl2VE93eGFaWWpXSmhhbnI4S3pnbXhLdUJnd0JWaHdPQU9FSTQrWWp3SWhYT0YwckY1YzZwMTVJelhadW9EeUpWNWhBMVFTRmdvVkZBQT09Cg==",
-      "url": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/Estimator_0.4.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdG5aUWNSNUYxOThiVXlyRm8yQ3JPejlkajNIUHJNOTc1QVlpQlhkek40UXViZmEzYVNqVEttWCtuQmZkMDFJRDM0b2txT1FuT3NwTitQa05pWEIyeTlLZ2NYRnAxb2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzc1OTYxCWZpbGU6RXN0aW1hdG9yXzAuNC4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMQpJeTFzakZsUlZlaDczSXF3UnZCSW5ZMVJsMjlXNXVDR0FOcHpQNVBVcGx1Qjg2dE5KNWFxRExCWFlGM0luYVF6VHFEeHVTeitIaWVXVVM3bDdJN05DQT09Cg==",
+      "url": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/Estimator_0.4.1_x64-setup.exe"
     }
   }
 }
