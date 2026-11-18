@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
-  "notes": "Estimator 1.0 \u2013 new look (dark and light), drop-down menus, much smoother zoom and pan on big drawings and PDFs, shared projects folder for the team with read-only lock when a project is open on another PC, and automatic mandatory updates.",
-  "pub_date": "2026-11-18T12:07:55Z",
+  "version": "1.1.0",
+  "notes": "Estimator 1.1 \u2013 fold panels and the report, View menu, report tabs in their own window (second screen), Qty + extra % column, choose report columns, material pictures in reports and Excel, drag a project out to WhatsApp/Outlook, drop files in to open or add drawings.",
+  "pub_date": "2026-11-18T14:01:46Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdG5aUWNSNUYxOXl3eGhyKzVKaUo1U1RMQVZUSHJZTENKQzhkT2lWWkx1Y21sdkFNRkVsSEROckh3bUpVbTZ1T3NtZHZSdkVvUzV1WTA1OTF2ZWZWazEvTS9QNUZqRWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDAzNjU2CWZpbGU6RXN0aW1hdG9yXzEuMC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuMApZd0hseko2RHlTcjFTWWlLbUtXbTVaSC84TmdHbGNrcER1RW9iOEpmM2piM3ZBbFIrajQ0Zm1hKzlmOFdYSU5mZnlCT0swQ2V0aXN5SncxOWc1SDZBdz09Cg==",
-      "url": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/Estimator_1.0.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdG5aUWNSNUYxOTNTNGJ2TW55UHhQR0VVSzZsWVZMSVdiV3RPaXE0UmpVS3NZYkpmZjFENUxwTUpvNmVhSUQzSXltQk9KQ0J1QmFPMklaMWloRVZieFkyM3RBcVRQc0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDEwNDgzCWZpbGU6RXN0aW1hdG9yXzEuMS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEuMApxSmRkYlcvRVNYVk1TT0o1YUFXenllTEQ2NzFyQkZHQ1RpaktCRUNkd2VJcHMvSXZnd3lPWC9PQThabjBPalR1d1BvcVE3YXNHZHZPaGJUSHMyeDRDQT09Cg==",
+      "url": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/Estimator_1.1.0_x64-setup.exe"
     }
   }
 }
