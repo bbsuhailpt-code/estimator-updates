@@ -1,11 +1,11 @@
 {
-  "version": "0.4.1",
-  "notes": "Fix: drawings did not show in takeoff (only the cursor) after 0.4.0.",
-  "pub_date": "2026-11-04T07:20:54Z",
+  "version": "1.0.0",
+  "notes": "Estimator 1.0 \u2013 new look (dark and light), drop-down menus, much smoother zoom and pan on big drawings and PDFs, shared projects folder for the team with read-only lock when a project is open on another PC, and automatic mandatory updates.",
+  "pub_date": "2026-11-18T12:07:55Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdG5aUWNSNUYxOThiVXlyRm8yQ3JPejlkajNIUHJNOTc1QVlpQlhkek40UXViZmEzYVNqVEttWCtuQmZkMDFJRDM0b2txT1FuT3NwTitQa05pWEIyeTlLZ2NYRnAxb2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzc1OTYxCWZpbGU6RXN0aW1hdG9yXzAuNC4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMQpJeTFzakZsUlZlaDczSXF3UnZCSW5ZMVJsMjlXNXVDR0FOcHpQNVBVcGx1Qjg2dE5KNWFxRExCWFlGM0luYVF6VHFEeHVTeitIaWVXVVM3bDdJN05DQT09Cg==",
-      "url": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/Estimator_0.4.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdG5aUWNSNUYxOXl3eGhyKzVKaUo1U1RMQVZUSHJZTENKQzhkT2lWWkx1Y21sdkFNRkVsSEROckh3bUpVbTZ1T3NtZHZSdkVvUzV1WTA1OTF2ZWZWazEvTS9QNUZqRWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDAzNjU2CWZpbGU6RXN0aW1hdG9yXzEuMC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuMApZd0hseko2RHlTcjFTWWlLbUtXbTVaSC84TmdHbGNrcER1RW9iOEpmM2piM3ZBbFIrajQ0Zm1hKzlmOFdYSU5mZnlCT0swQ2V0aXN5SncxOWc1SDZBdz09Cg==",
+      "url": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/Estimator_1.0.0_x64-setup.exe"
     }
   }
 }
