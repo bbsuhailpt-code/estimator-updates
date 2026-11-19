@@ -1,11 +1,11 @@
 {
-  "version": "1.2.0",
-  "notes": "Estimator 1.2 \u2013 clients home screen, Joinery runs with your own lines, BOQ cross-check (Excel or PDF BOQ, tag lines on drawings, Not in BOQ), material spec sheet PDF, delete drawings from the list, zoom to an item when picked in a list.",
-  "pub_date": "2026-11-19T06:53:33Z",
+  "version": "1.3.0",
+  "notes": "Calibration required on every PDF sheet (warning + Calibrate button). BOQ check: one tag for several lines or a whole section; unmark lines and remove tags (\u00d7 in the list, right-click or Delete on the drawing). Report windows fill the full height. No room subtotals in Quantities.",
+  "pub_date": "2026-11-19T08:02:36Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdG5aUWNSNUYxOStBWGlaL3lhQkRmTTlSQW9leUgvUHZ1UGVoTVV2NXhLbFJHT1ErT0dDenlsMTlCZGxyYkFEUGFoUUNCbkNPMnorSVZaa3RmMERkaXMyQU4yZkNEM1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDcxMjAwCWZpbGU6RXN0aW1hdG9yXzEuMi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuMApyS3dGWXJsZG4wWmNkUGU2L3prZmpjOFBNVXZFZU9BOXBkZTVRR3pGSDZzL1lXT01vaHJlYldCN0JuaUE0d3RvYjNneERGZjZ3UHNmQ3dEVjZuS3dBdz09Cg==",
-      "url": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/Estimator_1.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdG5aUWNSNUYxOStwSmNFbHFKVkNlcStFRzZ4MVVISld2eWZxbmJVbnY5RGtUSUpiVzd5T2RQMTlJcVV6VFRmUEVWQjQ3V2ZmS2dMQ2ZHMGVlVHNUb2lNZEp5M3ZlekFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDc1MzQ4CWZpbGU6RXN0aW1hdG9yXzEuMy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjMuMApQYnRNY082aEhUUlF0K2M2emJOTDU3L3lFK0orSmYzOUNwdnRYZzZCOGh3cWxaeDhQUFZJcTR6Q2VFUUdLTlBkZGdyblVKQjFBQUJXenI1Y0grRDVDZz09Cg==",
+      "url": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/Estimator_1.3.0_x64-setup.exe"
     }
   }
 }
