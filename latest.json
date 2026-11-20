@@ -1,11 +1,11 @@
 {
-  "version": "1.3.1",
-  "notes": "Fix: drop-down menus (Tools, View, Revision, Export and tool menus) were hidden in laptop / compact window layout.",
-  "pub_date": "2026-11-20T05:35:14Z",
+  "version": "1.3.2",
+  "notes": "Fix: DWG files with a record the reader cannot decode now open (that record is skipped) instead of showing 'Could not read DWG'.",
+  "pub_date": "2026-11-20T06:10:41Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdG5aUWNSNUYxOXh6eTM0TG1BWWdBTWx2MXVnTkVNWGgvNFpveGxuYVhWbjJVeHZQN1l2MjNJU2FGL0tUcnh6NUg1MlI3ckkvVFhRTjU0a2NCL3c2dzZha0FjN0pacGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTUyOTA2CWZpbGU6RXN0aW1hdG9yXzEuMy4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjMuMQpsY2ZkUllJaHJHdkI4bEZsanNkNHhvNWN4WStUcFlKcUw2OGlnbDUxcWpac1lqbWJFWEcwTlo1RHh5bTJBeVhzYzZoN1V2WnE5N2pNd2VMWWlXWDRCZz09Cg==",
-      "url": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/Estimator_1.3.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdG5aUWNSNUYxOTZRU0hlK3NrVFU0bmREc3FsMU1pTkdPY0dtbytTR2tVb3FEZXN5SktpYlo5TTBWZ2pDMDNNaUxrSkt1WXdQdGE5VVlQQjhjcTQvb1VEK2s3bFhtV1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTU1MDM0CWZpbGU6RXN0aW1hdG9yXzEuMy4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjMuMgpmWDR0SW1qdWpRb3FFV1lsdUgrT213YmkwdTU0MkZ5TUl2L3pPQzc0TWJnMnZkY1lXZVNFUmtSK3lTcTlmeFpOY2tCREdNMW5VM3VGTk5CMU81Qk1DUT09Cg==",
+      "url": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/Estimator_1.3.2_x64-setup.exe"
     }
   }
 }
