@@ -12,13 +12,13 @@
       "subtitle": "Quantity takeoff and CAD",
       "localizedDescription": "Quantity takeoff and CAD editing for interior fit-out drawings (DWG, DXF, PDF).",
       "iconURL": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/apple/Estimator-icon.png",
-      "version": "2.0.11",
+      "version": "2.0.13",
       "versionDate": "2026-11-21",
-      "downloadURL": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/apple/Estimator-2.0.11.ipa",
-      "size": 5272582,
+      "downloadURL": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/apple/Estimator-2.0.13.ipa",
+      "size": 5297742,
       "minOSVersion": "26.0",
       "versions": [
-        { "version": "2.0.11", "buildVersion": "1", "date": "2026-11-21", "downloadURL": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/apple/Estimator-2.0.11.ipa", "size": 5272582, "minOSVersion": "26.0" }
+        { "version": "2.0.13", "buildVersion": "1", "date": "2026-11-21", "downloadURL": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/apple/Estimator-2.0.13.ipa", "size": 5297742, "minOSVersion": "26.0" }
       ]
     }
   ],
