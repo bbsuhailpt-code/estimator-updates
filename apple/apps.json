@@ -1,18 +1,27 @@
 {
   "name": "Estimator",
   "identifier": "app.estimator.source",
+  "subtitle": "Quantity takeoff and CAD for Apple devices",
+  "sourceURL": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/apple/apps.json",
+  "iconURL": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/apple/Estimator-icon.png",
   "apps": [
     {
       "name": "Estimator",
       "bundleIdentifier": "app.estimator.Estimator",
       "developerName": "Estimator",
+      "subtitle": "Quantity takeoff and CAD",
+      "localizedDescription": "Quantity takeoff and CAD editing for interior fit-out drawings (DWG, DXF, PDF).",
       "iconURL": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/apple/Estimator-icon.png",
       "version": "2.0.6",
+      "versionDate": "2026-11-21",
       "downloadURL": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/apple/Estimator-2.0.6.ipa",
       "size": 5228023,
+      "minOSVersion": "26.0",
       "versions": [
-        { "version": "2.0.6", "downloadURL": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/apple/Estimator-2.0.6.ipa", "size": 5228023, "date": "2026-11-21" }
+        { "version": "2.0.6", "buildVersion": "1", "date": "2026-11-21", "downloadURL": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/apple/Estimator-2.0.6.ipa", "size": 5228023, "minOSVersion": "26.0" },
+        { "version": "2.0.5", "buildVersion": "1", "date": "2026-11-21", "downloadURL": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/apple/Estimator-2.0.5.ipa", "size": 5228918, "minOSVersion": "26.0" }
       ]
     }
-  ]
+  ],
+  "news": []
 }
