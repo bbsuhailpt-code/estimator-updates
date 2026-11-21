@@ -7,11 +7,11 @@
       "bundleIdentifier": "app.estimator.Estimator",
       "developerName": "Estimator",
       "iconURL": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/apple/Estimator-icon.png",
-      "version": "2.0.4",
-      "downloadURL": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/apple/Estimator-2.0.4.ipa",
-      "size": 5218566,
+      "version": "2.0.5",
+      "downloadURL": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/apple/Estimator-2.0.5.ipa",
+      "size": 5228918,
       "versions": [
-        { "version": "2.0.4", "downloadURL": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/apple/Estimator-2.0.4.ipa", "size": 5218566, "date": "2026-11-21" }
+        { "version": "2.0.5", "downloadURL": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/apple/Estimator-2.0.5.ipa", "size": 5228918, "date": "2026-11-21" }
       ]
     }
   ]
