@@ -1,11 +1,11 @@
 {
-  "version": "1.3.2",
-  "notes": "Fix: DWG files with a record the reader cannot decode now open (that record is skipped) instead of showing 'Could not read DWG'.",
-  "pub_date": "2026-11-20T06:10:41Z",
+  "version": "2.0.0",
+  "notes": "Major update: Team work (several people on one project, nothing overwritten: requests, conflicts, trash, activity, history). Optional offline AI (asks first, sized to this PC). Room check, Detect rooms, skirting prompt, calibration warning for DWG/DXF too.",
+  "pub_date": "2026-11-27T06:16:32Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdG5aUWNSNUYxOTZRU0hlK3NrVFU0bmREc3FsMU1pTkdPY0dtbytTR2tVb3FEZXN5SktpYlo5TTBWZ2pDMDNNaUxrSkt1WXdQdGE5VVlQQjhjcTQvb1VEK2s3bFhtV1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTU1MDM0CWZpbGU6RXN0aW1hdG9yXzEuMy4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjMuMgpmWDR0SW1qdWpRb3FFV1lsdUgrT213YmkwdTU0MkZ5TUl2L3pPQzc0TWJnMnZkY1lXZVNFUmtSK3lTcTlmeFpOY2tCREdNMW5VM3VGTk5CMU81Qk1DUT09Cg==",
-      "url": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/Estimator_1.3.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdG5aUWNSNUYxOTdKQUhFTnl1YVRsN2ZzQmovUG5UQzZJK2Z6QjJ2c3MzenJGSnZYaFpCSjVuMlFVRTJXcjhpZnZIQWZjK1FzMFQxRU54bmtxUkJ5V1d3U1ZpOHEyZ2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzYwMTg0CWZpbGU6RXN0aW1hdG9yXzIuMC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoyLjAuMApCNEtYd0FjWmgzekxNZkdpMGRIeVJsUHJGNnlITmw5L2JpUGh5SzQ4Y2JXSnIzeGJ0Uk5WdkY2bGRRTWZpMjlLWUhKamIvSUlvVXBZeWdpZi9tU09EUT09Cg==",
+      "url": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/Estimator_2.0.0_x64-setup.exe"
     }
   }
 }
