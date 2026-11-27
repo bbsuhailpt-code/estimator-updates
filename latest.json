@@ -1,11 +1,11 @@
 {
-  "version": "2.0.0",
-  "notes": "Major update: Team work (several people on one project, nothing overwritten: requests, conflicts, trash, activity, history). Optional offline AI (asks first, sized to this PC). Room check, Detect rooms, skirting prompt, calibration warning for DWG/DXF too.",
-  "pub_date": "2026-11-27T06:16:32Z",
+  "version": "2.0.1",
+  "notes": "Fix: AI download could not find the AI engine.",
+  "pub_date": "2026-11-27T06:30:38Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdG5aUWNSNUYxOTdKQUhFTnl1YVRsN2ZzQmovUG5UQzZJK2Z6QjJ2c3MzenJGSnZYaFpCSjVuMlFVRTJXcjhpZnZIQWZjK1FzMFQxRU54bmtxUkJ5V1d3U1ZpOHEyZ2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzYwMTg0CWZpbGU6RXN0aW1hdG9yXzIuMC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoyLjAuMApCNEtYd0FjWmgzekxNZkdpMGRIeVJsUHJGNnlITmw5L2JpUGh5SzQ4Y2JXSnIzeGJ0Uk5WdkY2bGRRTWZpMjlLWUhKamIvSUlvVXBZeWdpZi9tU09EUT09Cg==",
-      "url": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/Estimator_2.0.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdG5aUWNSNUYxOStINUFCMERiRkdSeVZBR215NkE3U2l1eE1RK3RGeHVJVnU5eTdwRUY0cXpUZ0VXSVlQWGNPeFU3NkdFdkhhbE5iV2pYa3E2RFExanY0QmNyUjhKandrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzYxMDMwCWZpbGU6RXN0aW1hdG9yXzIuMC4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoyLjAuMQphTFFReGJnWjM2dVRoU3pCL29UMlFERy9RMGdITlZQdlFDRDdwdzFFdHg0OVZwUkMyZUtNR3dRNzNrR1ZMaEVPZmhtUU5ZUVpXejVBR3lXMk00Y2JBQT09Cg==",
+      "url": "https://raw.githubusercontent.com/bbsuhailpt-code/estimator-updates/main/installers/Estimator_2.0.1_x64-setup.exe"
     }
   }
 }
